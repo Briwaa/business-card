@@ -1,0 +1,30 @@
+body{
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+}
+.boy{
+    border: 5px solid  #ffb3c6;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 75px;
+}
+.card{
+    background-color:#ffe5ec;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+   margin: 0px auto;
+    padding: 20px;
+    border-bottom: 6px solid #ffb3c6 ;
+    border-radius: 100px;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.text{
+text-align: center;   
+color: #2b2839;
+text-shadow: 2px 0 #ffb3c6;
+}
+
+
+
